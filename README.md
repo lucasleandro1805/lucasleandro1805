@@ -22,7 +22,7 @@
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleandro1805&theme=dracula&hide_langs_below=1&layout=compact&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleandro1805&theme=dracula&layout=compact&count_private=true" />
 </a>
 
 <a href="https://github.com/Gurupreet">
