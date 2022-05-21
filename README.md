@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasleandro1805&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasleandro1805&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="**SEU NOME** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
