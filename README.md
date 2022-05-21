@@ -16,11 +16,11 @@
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/lucasleandro1805/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleandro1805&theme=dracula&layout=compact&count_private=true" />
+  <img align="center" src="https://github-readme-stats-lucasleandro1805.vercel.app/api/top-langs/?username=lucasleandro1805&theme=dracula&layout=compact&count_private=true" />
 </a>
 
 <a href="https://github.com/lucasleandro1805/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasleandro1805&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="Lucas Leandro github stats"/>
+ <img align="center" src="https://github-readme-stats-lucasleandro1805.vercel.app/api?username=lucasleandro1805&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="Lucas Leandro github stats"/>
 </a>
 
 [website]: https://codedev.ga/
