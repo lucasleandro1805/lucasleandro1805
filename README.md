@@ -1,8 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Passionate about game development, I've studied this area since I was 12 years old, I've done countless projects in Unity 3D, including racing games, FPS, augmented reality and school projects.
+
+Today I study 3D Game Engine development using Java and OpenGL for the Android platform, in which I am developing my own.
+
+ITsMagic Engine is my biggest Portfolio, you can find the download here:
+https://play.google.com/store/apps/details?id=com.itsmagic.engine
 </p>
 
 ## **Linguagens e Ferramentas:**  
