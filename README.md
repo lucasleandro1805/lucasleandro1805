@@ -1,12 +1,23 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Passionate about game development, I've studied this area since I was 12 years old, I've done countless projects in Unity 3D, including racing games, FPS, augmented reality and school projects.
+  Passionate about software development, I have studied several languages since I was 12 years old.
 
-Today I study 3D Game Engine development using Java and OpenGL for the Android platform, in which I am developing my own.
+I currently accumulate practical and professional experience in backend/games development and high performance Android applications.
 
-ITsMagic Engine is my biggest Portfolio, you can find the download here:
-https://play.google.com/store/apps/details?id=com.itsmagic.engine
+Languages:
+Java, C#, PHP, C++
+
+Technologies:
+Android, Unity
+
+Frameworks:
+Java Spring/Spring Boot, OpenGL - 3 years
+
+My biggest portfolio is my 3d game engine for Android (ITsMagic Engine) with over 500,000 downloads
+Download here: https://play.google.com/store/apps/details?id=com.itsmagic.engine
+
+I developed the entire backend and the application, where I could acquire advanced knowledge in several areas of development, including backend, 3d computer graphics (OpenGL), memory control and low-level optimization.
 </p>
 
 ## **Linguagens e Ferramentas:**  
